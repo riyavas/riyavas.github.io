@@ -1,0 +1,1 @@
+My Portfolio that was made using HTML and CSS. Utilized Font Awesome's Free OpenSource icons - https://fontawesome.com
